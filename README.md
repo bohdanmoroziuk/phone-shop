@@ -1,6 +1,6 @@
 # Phone Shop
 
-> 
+> An e-commerce platform for selling phones.
 
 ## Preview
 
